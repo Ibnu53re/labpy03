@@ -2,7 +2,7 @@
 
 **Hasil dari latihan 1**
 
-(HasilLatihan1.jpg)
+![Output](HasilLatihan1.jpg)
 
 **Code**
 ```

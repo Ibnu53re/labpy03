@@ -94,7 +94,7 @@ o	Jika bulan 8, laba adalah 200.000.000.
 
 **Hasil dari latihan 3**
 
-![Output](HasilLatihan1.jpg)
+![Output](HasilLatihan3.jpg)
 
 **Code**
 ```

@@ -41,7 +41,7 @@ Penjelasan Fungsi random.uniform(a, b):
 
 **Hasil dari latihan 2**
 
-<img width="722" alt="Screenshot Latihan 2" src="https://github.com/user-attachments/assets/26a7ae08-d73e-4fe0-aa61-da584588c434">
+![Output](HasilLatihan2.jpg)
 
 **Code**
 ```
@@ -94,7 +94,7 @@ o	Jika bulan 8, laba adalah 200.000.000.
 
 **Hasil dari latihan 3**
 
-<img width="725" alt="Screenshot Latihan 3" src="https://github.com/user-attachments/assets/baeefcc1-2ee9-4a63-b8d1-8e43f3a8d7bc">
+![Output](HasilLatihan1.jpg)
 
 **Code**
 ```

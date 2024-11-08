@@ -2,7 +2,7 @@
 
 **Hasil dari latihan 1**
 
-<img width="727" alt="Screenshot Latihan 1" src="https://github.com/user-attachments/assets/3fe4c75d-ff04-4de4-a6b7-0122093c45b1">
+<img width="727" alt="HasilLatihan.jpg">
 
 **Code**
 ```

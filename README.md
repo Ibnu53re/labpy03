@@ -2,7 +2,7 @@
 
 **Hasil dari latihan 1**
 
-<img width="727" alt="HasilLatihan1.jpg">
+(HasilLatihan1.jpg)
 
 **Code**
 ```
